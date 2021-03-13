@@ -1,0 +1,4 @@
+set play_sorted=true
+set lib_sort=tracknumber albumartist date album discnumber title filename play_count
+set lib_sort=discnumber albumartist date album tracknumber title filename play_count
+save
